@@ -30,6 +30,6 @@ Overall from the method i've used to clustering data (Agglomerative Hieararchy),
 * High costs from this cluster is gold, mostly bought via the web.
 * If the company doing the product campaign, this cluster **not frequently attend the discount campaign**. But have **the number of buying discount item with relative high**. 
 
-As a follow results from three clusters, it can be seen that there may be a slight mistake when the company doing its marketing. It is proven by the interest that follows the campaign from a high cluster is high but to buy the product being campaigned is relatively very low. From the point that i can see, the companies should be doing the research e.g through form etc. especially for the interest of high cluster items. From the data that i've analyzed, the behaviour of high cluster is buying all items with high cost which is indicates this cluster only buying the fancy things on each product.
+As a follow results from three clusters, it can be seen that there may be a slight mistake when the company doing its marketing. It is proven by the interest that follows the campaign from a high cluster is high but to buy the product being campaigned is relatively very low. From the point that i can see, **the companies should be doing the research e.g through form etc.** especially **for** the **interest of high cluster items**. From the data that i've analyzed, **the behaviour** of high cluster is **buying all items** with high cost which is indicates this cluster **only buying the fancy things on each product**.
 
 
